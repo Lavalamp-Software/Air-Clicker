@@ -3,7 +3,7 @@
 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/shabman/Air-Clicker/ui.png" alt="Air Clicker"/> 
+	<img src="ui.png" alt="Air Clicker"/> 
 </p>
 
 
