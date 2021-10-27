@@ -3,7 +3,7 @@
 
 
 <p align="center">
-	<img src="ui.png" alt="Air Clicker"/> 
+	<img src="uiu.png" alt="Air Clicker"/> 
 </p>
 
 
