@@ -9,3 +9,9 @@
 
 # Air-Clicker
 A lightweight auto clicker for mac systems.
+
+# Notice
+- This project is unfinished and doesn't have full working features
+- This is still a work in progress so don't worry.
+
+Check the LICENSE file before use
